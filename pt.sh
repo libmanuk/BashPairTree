@@ -2,9 +2,6 @@
 #BashPairTree
 #pt.sh
 #copyright 2020, Eric C. Weig
-#create pairtree directory structure
-#run script from pairtree root directory
-#works for filenames up to 20 characters long
 filename='data.txt'
 n=1
 while read line; do
